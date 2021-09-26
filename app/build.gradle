@@ -35,4 +35,11 @@ dependencies {
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+
+    //引入Common组件，初始化Aroute
+    implementation 'com.github.JaupeanChen:CommonModule:1.0.9'
+
+    //引入业务组件
+    implementation 'com.github.JaupeanChen:HomePage:1.0.5'
+    implementation 'com.github.JaupeanChen:Cart:1.0.6'
 }
