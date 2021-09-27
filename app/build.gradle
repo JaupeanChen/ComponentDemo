@@ -40,6 +40,6 @@ dependencies {
     implementation 'com.github.JaupeanChen:CommonModule:1.1.0'
 
     //引入业务组件
-    implementation 'com.github.JaupeanChen:HomePage:1.0.6'
-    implementation 'com.github.JaupeanChen:Cart:1.0.7'
+    implementation 'com.github.JaupeanChen:HomePage:1.0.7'
+    implementation 'com.github.JaupeanChen:Cart:1.0.9'
 }
